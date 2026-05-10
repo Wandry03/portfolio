@@ -11,6 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
 
 <body>
 
@@ -25,6 +26,16 @@
             <a href="#contact">Contato</a>
         </nav>
     </header>
+
+    <section>
+        <div class="home">
+            <div class="apresentation">
+                <p>Olá! Meu nome é</p> <br>
+                <h1>Wandry Nunes</h1>
+                <p>Desenvolvedor WEB</p>
+            </div>
+        </div>
+    </section>
 
     <section class="aboutme">
 
