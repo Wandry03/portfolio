@@ -21,6 +21,7 @@
         </div>
 
         <nav class="navbar">
+            <a href="#home">Home</a>
             <a href="#about">Sobre mim</a>
             <a href="#projects">Projetos</a>
             <a href="#contact">Contato</a>
@@ -30,8 +31,8 @@
     <section>
         <div class="home">
             <div class="apresentation">
-                <p>Olá! Meu nome é</p> <br>
-                <h1>Wandry Nunes</h1>
+                <p>Olá! Meu nome é</p>
+                <h1>Wandry Nunes</h1> 
                 <p>Desenvolvedor WEB</p>
             </div>
         </div>

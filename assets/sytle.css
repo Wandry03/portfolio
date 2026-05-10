@@ -140,6 +140,8 @@ body {
 
 .apresentation {
     text-align: center;
+    max-width: 760px;
+    width: 100%;
 }
 
 .apresentation p,
@@ -147,13 +149,34 @@ body {
     margin: 0;
 }
 
+.apresentation p:first-child {
+    font-size: 0.95rem;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin-bottom: 1rem;
+}
+
 .apresentation h1 {
-    font-size: 3rem;
-    margin: 0.5rem 0;
+    font-size: 4rem;
+    font-weight: 800;
+    letter-spacing: -0.05rem;
+    line-height: 1;
+    margin-bottom: 1rem;
+}
+
+.apresentation p:last-child {
+    font-size: 1.25rem;
+    color: #333;
+    font-weight: 500;
 }
 
 @media (max-width: 768px) {
     .apresentation h1 {
-        font-size: 2.2rem;
+        font-size: 2.4rem;
+    }
+
+    .apresentation p:last-child {
+        font-size: 1rem;
     }
 }
