@@ -32,9 +32,16 @@
         <div class="home">
             <div class="apresentation">
                 <p>Olá! Meu nome é</p>
-                <h1>Wandry Nunes</h1> 
+                <h1>Wandry Nunes</h1>
                 <p>Desenvolvedor WEB</p>
             </div>
+                <div class="code-card">
+                    <p>const developer = { 
+                        name: "Wandry",<br>
+                        skills: ["HTML", "CSS", "JS"],<br>
+                        passion: "Frontend"<br>
+                        }<br></p>
+                </div>
         </div>
     </section>
 
